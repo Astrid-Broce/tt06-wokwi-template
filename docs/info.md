@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+It turns the first half of the lights on when the switches are off and turns the other half of the lights on when the switches are on.
 
 ## How to test
 
-Explain how to use your project
+Turn one of the first four switches on and verify if the light turns on and turn one of the last four swithces on and verify if the light urns on.
 
 ## External hardware
 
